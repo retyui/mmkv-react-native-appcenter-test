@@ -5314,6 +5314,11 @@ react-native-codegen@^0.0.7:
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
 
+react-native-mmkv-storage@^0.6.5:
+  version "0.6.5"
+  resolved "https://registry.yarnpkg.com/react-native-mmkv-storage/-/react-native-mmkv-storage-0.6.5.tgz#66e93ee97b706e5f5ea5765b591df250aa2cc79c"
+  integrity sha512-QYcmfUYPT1OZ4+x8+GC6Ym9x1vwFEyCzL0vvMXCVyhsI0bNBTWMEni+RGkYy9geD/Ncaxq8rKHp0VDvBFw7ToA==
+
 react-native@0.66.0:
   version "0.66.0"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.66.0.tgz#99bdd83a9a612a71b94242767989d666d445b007"
